@@ -109,9 +109,18 @@ $discard,site=bitget.site
 $discard,site=gate.io
 $discard,site=newsbtc.com
 $discard,site=cryptonews.com
-
 $discard,site=youtube.com
+$discard,site=youtu.be        # short links
 $discard,site=wikipedia.org
+$discard,site=wikimedia.org
+$discard,site=wiktionary.org
+$discard,site=wikidata.org
+$discard,site=wiktionary.org
+$discard,site=wikidata.org
+$discard,site=wikimedia.org
+$discard,site=mediawiki.org
+$discard,site=wikihow.com
+
 
 
 # Expanded crypto/finance low-signal & aggregators:
