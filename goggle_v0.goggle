@@ -110,6 +110,10 @@ $discard,site=gate.io
 $discard,site=newsbtc.com
 $discard,site=cryptonews.com
 
+$discard,site=youtube.com
+$discard,site=wikipedia.org
+
+
 # Expanded crypto/finance low-signal & aggregators:
 $discard,site=u.today
 
