@@ -3,6 +3,36 @@
 ! public: true
 ! author: xyz
 ! avatar: #0a7c41
+
+
+# --------------------------------
+# HARD BLOCKLIST (your list + more)
+# --------------------------------
+# Your list:
+$discard,site=bitget.com
+$discard,site=bitget.site
+$discard,site=gate.io
+$discard,site=newsbtc.com
+$discard,site=cryptonews.com
+$discard,site=youtube.com
+$discard,site=www.youtube.com
+$discard,site=youtu.be        # short links
+$discard,site=wikipedia.org
+$discard,site=en.wikipedia.org
+$discard,site=de.wikipedia.org
+$discard,site=wikimedia.org
+$discard,site=wiktionary.org
+$discard,site=wikidata.org
+$discard,site=wiktionary.org
+$discard,site=wikidata.org
+$discard,site=wikimedia.org
+$discard,site=mediawiki.org
+$discard,site=wikihow.com
+
+
+
+# Expanded crypto/finance low-signal & aggregators:
+$discard,site=u.today
  
 # --- Core global finance publishers (Tier 1) ---
 $boost=10,site=reuters.com
@@ -100,29 +130,6 @@ $boost=6,site=theblock.co
 $boost=6,site=decrypt.co
 $downrank=4,site=cointelegraph.com
 
-# --------------------------------
-# HARD BLOCKLIST (your list + more)
-# --------------------------------
-# Your list:
-$discard,site=bitget.com
-$discard,site=bitget.site
-$discard,site=gate.io
-$discard,site=newsbtc.com
-$discard,site=cryptonews.com
-$discard,site=youtube.com
-$discard,site=www.youtube.com
-$discard,site=youtu.be        # short links
-$discard,site=wikipedia.org
-$discard,site=en.wikipedia.org
-$discard,site=de.wikipedia.org
-$discard,site=wikimedia.org
-$discard,site=wiktionary.org
-$discard,site=wikidata.org
-$discard,site=wiktionary.org
-$discard,site=wikidata.org
-$discard,site=wikimedia.org
-$discard,site=mediawiki.org
-$discard,site=wikihow.com
 
 
 
