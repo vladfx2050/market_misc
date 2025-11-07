@@ -3,8 +3,6 @@
 ! public: true
 ! author: xyz
 ! avatar: #0a7c41
-
-
 # --------------------------------
 # HARD BLOCKLIST (your list + more)
 # --------------------------------
@@ -28,12 +26,8 @@ $discard,site=wikidata.org
 $discard,site=wikimedia.org
 $discard,site=mediawiki.org
 $discard,site=wikihow.com
-
-
-
 # Expanded crypto/finance low-signal & aggregators:
-$discard,site=u.today
- 
+$discard,site=u.today 
 # --- Core global finance publishers (Tier 1) ---
 $boost=10,site=reuters.com
 $boost=10,site=ft.com
