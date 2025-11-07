@@ -1,8 +1,7 @@
 ! name: strict blocklist + boosts
 ! description: Re-rank.
 ! public: true
-! author: <your-handle>
-! version: 2025-11-06
+! author: xyz
  
 # --- Core global finance publishers (Tier 1) ---
 $boost=10,site=reuters.com
