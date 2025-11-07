@@ -1,3 +1,5 @@
+ChatGPT said:
+
 ! name: strict blocklist + boosts
 ! description: Re-rank.
 ! public: true
@@ -11,7 +13,7 @@ $discard,site=newsbtc.com
 $discard,site=cryptonews.com
 $discard,site=youtube.com
 $discard,site=www.youtube.com
-$discard,site=youtu.be       
+$discard,site=youtu.be
 $discard,site=wikipedia.org
 $discard,site=en.wikipedia.org
 $discard,site=de.wikipedia.org
@@ -23,4 +25,4 @@ $discard,site=wikidata.org
 $discard,site=wikimedia.org
 $discard,site=mediawiki.org
 $discard,site=wikihow.com
-$discard,site=u.today 
+$discard,site=u.today
