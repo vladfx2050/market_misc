@@ -3,10 +3,6 @@
 ! public: true
 ! author: xyz
 ! avatar: #0a7c41
-# --------------------------------
-# HARD BLOCKLIST (your list + more)
-# --------------------------------
-# Your list:
 $discard,site=bitget.com
 $discard,site=bitget.site
 $discard,site=gate.io
