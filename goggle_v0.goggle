@@ -1,6 +1,6 @@
 ! name: strict blocklist + boosts
 ! description: Re-rank.
-! public: false
+! public: true
 ! author: <your-handle>
 ! version: 2025-11-06
  
