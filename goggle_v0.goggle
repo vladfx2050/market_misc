@@ -22,11 +22,4 @@ $discard,site=wikidata.org
 $discard,site=wikimedia.org
 $discard,site=mediawiki.org
 $discard,site=wikihow.com
-# Expanded crypto/finance low-signal & aggregators:
 $discard,site=u.today 
-# --- Generic downranks (catch spam/rewrites) ---
-$downrank=6,$inurl=ai-generated
-$downrank=6,$inurl=/copy/
-$downrank=6,$intitle="rewritten"
-# --- Optional language preference (commented) ---
-# $boost=3,$language=en
