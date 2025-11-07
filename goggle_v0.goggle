@@ -2,6 +2,7 @@
 ! description: Re-rank.
 ! public: true
 ! author: xyz
+! avatar: #0a7c41
  
 # --- Core global finance publishers (Tier 1) ---
 $boost=10,site=reuters.com
